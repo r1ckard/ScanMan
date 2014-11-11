@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<o>
+	<additives class="array">
+		<e class="object">
+			<additive_name type="string">Emulsifiers</additive_name>
+			<additive_red_ingredients type="string">CARRAGEENAN,
+				GUAR, SODIUM BICARBONATE</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string">CREAM</additive_yellow_ingredients>
+		</e>
+		<e class="object">
+			<additive_name type="string">Stabilizers</additive_name>
+			<additive_red_ingredients type="string">CARRAGEENAN,
+				GUAR, SODIUM BICARBONATE</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string">CREAM</additive_yellow_ingredients>
+		</e>
+		<e class="object">
+			<additive_name type="string">Preservatives</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Sweeteners</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Antioxidants</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Colors</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Vegetable Gum</additive_name>
+			<additive_red_ingredients type="string">CARRAGEENAN,
+				GUAR</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Flavor Enhancer</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Thickeners</additive_name>
+			<additive_red_ingredients type="string">CARRAGEENAN,
+				GUAR</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string">CREAM</additive_yellow_ingredients>
+		</e>
+		<e class="object">
+			<additive_name type="string">Acidity Regulator</additive_name>
+			<additive_red_ingredients type="string">SODIUM
+				BICARBONATE</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Food Acids</additive_name>
+			<additive_red_ingredients type="string">SODIUM
+				BICARBONATE</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Mineral Salt</additive_name>
+			<additive_red_ingredients type="string">SODIUM
+				BICARBONATE</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Propellant</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Artificial Color</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Artificial Flavoring Agent</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Artificial Preservative</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Natural Color</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Natural Flavoring Agent</additive_name>
+			<additive_red_ingredients type="string">VANILLA
+				EXTRACT</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Natural Preservative</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Trans Fat</additive_name>
+			<additive_red_ingredients type="string" />
+			<additive_value type="number">0</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<additive_name type="string">Added Sugar</additive_name>
+			<additive_red_ingredients type="string">SUGAR, LIQUID
+				SUGAR</additive_red_ingredients>
+			<additive_value type="number">2</additive_value>
+			<additive_yellow_ingredients type="string" />
+		</e>
+	</additives>
+	<allergens class="array">
+		<e class="object">
+			<allergen_name type="string">Cereals</allergen_name>
+			<allergen_red_ingredients type="string">WHEAT FLOUR</allergen_red_ingredients>
+			<allergen_value type="number">2</allergen_value>
+			<allergen_yellow_ingredients type="string">VANILLA
+				EXTRACT</allergen_yellow_ingredients>
+		</e>
+		<e class="object">
+			<allergen_name type="string">Shellfish</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Egg</allergen_name>
+			<allergen_red_ingredients type="string">EGG YOLKS,
+				EGGS, EGG WHITES</allergen_red_ingredients>
+			<allergen_value type="number">2</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Fish</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Milk</allergen_name>
+			<allergen_red_ingredients type="string">CREAM,
+				BUTTER, SKIM MILK</allergen_red_ingredients>
+			<allergen_value type="number">2</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Peanuts</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Sulfites</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Tree Nuts</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Soybean</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Sesame Seeds</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Gluten</allergen_name>
+			<allergen_red_ingredients type="string">WHEAT FLOUR</allergen_red_ingredients>
+			<allergen_value type="number">2</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Lactose</allergen_name>
+			<allergen_red_ingredients type="string">CREAM,
+				BUTTER, SKIM MILK</allergen_red_ingredients>
+			<allergen_value type="number">2</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Corn</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">1</allergen_value>
+			<allergen_yellow_ingredients type="string">VANILLA
+				EXTRACT</allergen_yellow_ingredients>
+		</e>
+		<e class="object">
+			<allergen_name type="string">Wheat</allergen_name>
+			<allergen_red_ingredients type="string">WHEAT FLOUR</allergen_red_ingredients>
+			<allergen_value type="number">2</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+		<e class="object">
+			<allergen_name type="string">Coconut</allergen_name>
+			<allergen_red_ingredients type="string" />
+			<allergen_value type="number">0</allergen_value>
+			<allergen_yellow_ingredients type="string" />
+		</e>
+	</allergens>
+	<canStoreName type="string">false</canStoreName>
+	<ingredients type="string">CREAM, LIQUID SUGAR (SUGAR, WATER), SKIM
+		MILK, WATER SUGAR, COCOA (PROCESSED WITH ALKAI), WHEAT FLOUR, COCOA,
+		EGG YOLKS, BUTTER (CREAM, SALT), EGGS, EGG WHITES, GUAR GIM SALT,
+		CARRAGEENAN, VANILLA EXTRACT, SODIUM BICARBONATE.</ingredients>
+	<processedIngredients type="string" />
+	<product_name type="string">BEN &amp; JERRY'S ICE CREAM, CHOCOLATE
+		ICE CREAM WITH FUDGE BROWNIES</product_name>
+	<upc type="string">076840100477</upc>
+</o>
